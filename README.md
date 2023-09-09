@@ -29,5 +29,3 @@ I see every challenge as an opportunity to grow. Currently, I'm sharpening my sk
 Feel free to explore my repositories and connect with me. Whether you're interested in collaboration or just want to chat tech, I'm always open to new connections and ideas.
 
 Let's learn, code, and build amazing things together!
-- ⚡ Fun fact: ...
--->
