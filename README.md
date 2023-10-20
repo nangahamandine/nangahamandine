@@ -19,6 +19,7 @@ Here are some technologies I frequently work with:
 ## 🌱 Constant Learning
 
 I see every challenge as an opportunity to grow. Currently, I'm sharpening my skills in UI/UX design to create intuitive and delightful user interfaces.
+I've also been learning OCaml for a year now.
 
 ## 📫 Get in Touch
 
